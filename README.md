@@ -6,6 +6,7 @@ Nama    : Miftahu Rizkiyah
 NIM     : 312010014
 KELAS   : TI.20.B1
 ~~~
+
 # AKTIVASI EKSTENSION
 Untuk mengaktifkan ekstentsi tersebut, melalu XAMPP Control Panel, pada bagian<br>
 Apache klik Config -> PHP.ini
